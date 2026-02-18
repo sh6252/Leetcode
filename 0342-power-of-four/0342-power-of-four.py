@@ -1,9 +1,4 @@
 class Solution:
     def isPowerOfFour(self, n: int) -> bool:
-        import math
-        if n <= 0:
-            return False
-        log_n = math.log(n, 4)
-        return log_n.is_integer()
-
+        return n > 0 and (n & (n - 1)) == 0 and (n & 0x55555555) != 0
         
