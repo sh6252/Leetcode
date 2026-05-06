@@ -20,4 +20,12 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/sh6252/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/sh6252/Leetcode/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/sh6252/Leetcode/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
