@@ -28,4 +28,12 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/sh6252/Leetcode/tree/main/0155-min-stack/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/sh6252/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/sh6252/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
