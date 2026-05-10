@@ -40,4 +40,8 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1116-print-zero-even-odd](https://github.com/sh6252/Leetcode/tree/main/1116-print-zero-even-odd/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/sh6252/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
