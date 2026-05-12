@@ -16,12 +16,14 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/sh6252/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sh6252/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/sh6252/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sh6252/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/sh6252/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sh6252/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +56,8 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/sh6252/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sh6252/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 <!---LeetCode Topics End-->
