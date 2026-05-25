@@ -12,6 +12,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sh6252/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [1871-jump-game-vii](https://github.com/sh6252/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1871-jump-game-vii](https://github.com/sh6252/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sh6252/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -71,6 +73,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sh6252/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/sh6252/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +82,8 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2540-minimum-common-value](https://github.com/sh6252/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1871-jump-game-vii](https://github.com/sh6252/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 <!---LeetCode Topics End-->
