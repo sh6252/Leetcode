@@ -12,10 +12,12 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sh6252/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0014-longest-common-prefix](https://github.com/sh6252/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [1871-jump-game-vii](https://github.com/sh6252/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sh6252/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0056-merge-intervals](https://github.com/sh6252/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sh6252/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sh6252/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -89,4 +91,8 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/sh6252/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sh6252/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
