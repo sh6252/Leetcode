@@ -22,6 +22,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sh6252/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sh6252/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sh6252/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sh6252/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/sh6252/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/sh6252/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sh6252/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -63,6 +64,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sh6252/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/sh6252/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -82,6 +84,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sh6252/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/sh6252/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
