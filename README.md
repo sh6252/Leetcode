@@ -127,4 +127,20 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/sh6252/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/sh6252/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/sh6252/Leetcode/tree/main/0100-same-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/sh6252/Leetcode/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/sh6252/Leetcode/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/sh6252/Leetcode/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
