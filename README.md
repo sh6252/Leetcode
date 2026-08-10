@@ -44,6 +44,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/sh6252/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
+| [1510-stone-game-iv](https://github.com/sh6252/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1510-stone-game-iv](https://github.com/sh6252/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1871-jump-game-vii](https://github.com/sh6252/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sh6252/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Simulation
@@ -98,4 +100,24 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sh6252/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/sh6252/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/sh6252/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/sh6252/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Spragueâ€“Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/sh6252/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/sh6252/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
