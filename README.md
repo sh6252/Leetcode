@@ -15,6 +15,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | [0014-longest-common-prefix](https://github.com/sh6252/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [1871-jump-game-vii](https://github.com/sh6252/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sh6252/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sh6252/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | [2540-minimum-common-value](https://github.com/sh6252/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sh6252/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sh6252/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sh6252/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +110,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/sh6252/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sh6252/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sh6252/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
