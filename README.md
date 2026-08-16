@@ -24,6 +24,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | [1140-stone-game-ii](https://github.com/sh6252/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sh6252/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sh6252/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2029-stone-game-ix](https://github.com/sh6252/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sh6252/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sh6252/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sh6252/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -53,6 +54,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | [0029-divide-two-integers](https://github.com/sh6252/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [1140-stone-game-ii](https://github.com/sh6252/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/sh6252/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/sh6252/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sh6252/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2029-stone-game-ix](https://github.com/sh6252/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sh6252/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -120,15 +123,18 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/sh6252/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/sh6252/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/sh6252/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/sh6252/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/sh6252/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/sh6252/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/sh6252/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/sh6252/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Spragueâ€“Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +144,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/sh6252/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/sh6252/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/sh6252/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,4 +176,8 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sh6252/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/sh6252/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
