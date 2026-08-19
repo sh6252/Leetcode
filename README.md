@@ -22,6 +22,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | [0014-longest-common-prefix](https://github.com/sh6252/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0056-merge-intervals](https://github.com/sh6252/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [1140-stone-game-ii](https://github.com/sh6252/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/sh6252/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sh6252/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sh6252/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2029-stone-game-ix](https://github.com/sh6252/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
@@ -59,6 +60,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/sh6252/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/sh6252/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,12 +84,14 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/sh6252/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sh6252/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2029-stone-game-ix](https://github.com/sh6252/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sh6252/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/sh6252/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sh6252/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2540-minimum-common-value](https://github.com/sh6252/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sh6252/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
