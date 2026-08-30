@@ -28,6 +28,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sh6252/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sh6252/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2029-stone-game-ix](https://github.com/sh6252/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sh6252/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sh6252/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sh6252/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sh6252/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -93,6 +94,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sh6252/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1927-sum-game](https://github.com/sh6252/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/sh6252/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sh6252/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sh6252/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sh6252/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Hash Table
