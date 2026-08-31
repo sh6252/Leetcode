@@ -200,4 +200,8 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sh6252/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sh6252/Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 <!---LeetCode Topics End-->
