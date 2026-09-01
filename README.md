@@ -38,6 +38,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sh6252/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sh6252/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sh6252/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sh6252/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/sh6252/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sh6252/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sh6252/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sh6252/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sh6252/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sh6252/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sh6252/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sh6252/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -174,6 +177,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/sh6252/Leetcode/tree/main/0100-same-tree/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sh6252/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,4 +208,8 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sh6252/Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sh6252/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 <!---LeetCode Topics End-->
