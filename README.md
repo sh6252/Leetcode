@@ -39,6 +39,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sh6252/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sh6252/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sh6252/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/sh6252/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | [1510-stone-game-iv](https://github.com/sh6252/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1927-sum-game](https://github.com/sh6252/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/sh6252/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/sh6252/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
