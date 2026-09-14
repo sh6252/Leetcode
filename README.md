@@ -59,6 +59,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/sh6252/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
+| [0836-rectangle-overlap](https://github.com/sh6252/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1140-stone-game-ii](https://github.com/sh6252/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/sh6252/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1927-sum-game](https://github.com/sh6252/Leetcode/tree/main/1927-sum-game/) | Medium |
@@ -214,4 +215,8 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sh6252/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/sh6252/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
