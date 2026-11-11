@@ -61,6 +61,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/sh6252/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
+| [0069-sqrtx](https://github.com/sh6252/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0836-rectangle-overlap](https://github.com/sh6252/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1140-stone-game-ii](https://github.com/sh6252/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/sh6252/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
@@ -129,6 +130,7 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/sh6252/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [2540-minimum-common-value](https://github.com/sh6252/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -225,4 +227,8 @@ A collection of my LeetCode solutions, synced automatically with **LeetHub** ðŸš
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sh6252/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/sh6252/Leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
